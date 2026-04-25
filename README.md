@@ -1,5 +1,5 @@
 # git-practice
-
+テスト
 Claudeと一緒にGitを学ぶ練習用リポジトリです。
 
 ## 学習内容
