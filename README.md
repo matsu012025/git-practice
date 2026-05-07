@@ -8,7 +8,7 @@ Claudeと一緒にGitを学ぶ練習用リポジトリです。
 - マージ
 
 ## 進捗
-rebaseの練習中1
+rebaseの練習中2
 
 <!-- GitHubから編集 -->
 
