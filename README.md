@@ -27,4 +27,4 @@ test3 5/7
 
 test3-2
 
-conflict-test 1回目の修正
+conflict-test 2回目の修正
